@@ -1,0 +1,18 @@
+body {
+    
+    background-image: url("https://images.mygoodtimes.in/wp-content/uploads/2018/08/31063759/iStock-643845180-1.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: 1025px 700px;
+
+   }
+   
+
+i{
+    border: 5px solid rgb(0, 255, 234);
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
